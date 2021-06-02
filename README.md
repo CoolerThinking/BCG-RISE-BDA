@@ -14,3 +14,4 @@ asd
 asd
 as
 d
+https://raw.githubusercontent.com/CoolerThinking/BCG-RISE-BDA/main/images/Autonomous_Crane.png
